@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TimeTaskWatch" parent="android:Theme.DeviceDefault.NoActionBar">
+        <!-- Fondo negro puro para maximizar batería OLED -->
+        <item name="android:windowBackground">#090A0C</item>
+    </style>
+</resources>
